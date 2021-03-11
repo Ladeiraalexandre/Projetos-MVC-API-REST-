@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoAPI\\CursoAPI.csproj": {}
+    "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoAPI\\CursoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoAPI\\CursoAPI.csproj": {
+    "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoAPI\\CursoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoAPI\\CursoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoAPI\\CursoAPI.csproj",
         "projectName": "CursoAPI",
-        "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoAPI\\CursoAPI.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoAPI\\CursoAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoAPI\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoMVC\\CursoMVC.csproj"
+              "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoMVC\\CursoMVC.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoMVC\\CursoMVC.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+    "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoMVC\\CursoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoMVC\\CursoMVC.csproj",
         "projectName": "CursoMVC",
-        "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoMVC\\CursoMVC.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\CursoMVC\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CursoLocaliza\\CursoMVC\\ProjetoMVC_01\\CursoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
