@@ -164,12 +164,12 @@ C:\Users\User\Desktop\CursoLocaliza\Projetos\CursoMVC\CursoAPI\bin\Debug\netcore
 C:\Users\User\Desktop\CursoLocaliza\Projetos\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\Desktop\CursoLocaliza\Projetos\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.dll
 C:\Users\User\Desktop\CursoLocaliza\Projetos\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.pdb
+C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.Views.dll
+C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.Views.pdb
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.exe
-C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.Views.dll
-C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoMVC.Views.pdb
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoAPI.StaticWebAssets.xml
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoAPI.exe
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoAPI\bin\Debug\netcoreapp3.1\CursoAPI.deps.json
