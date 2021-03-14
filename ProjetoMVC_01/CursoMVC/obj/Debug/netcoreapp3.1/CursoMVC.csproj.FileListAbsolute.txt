@@ -361,3 +361,4 @@ C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoMVC\obj\Debug\ne
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.dll
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.pdb
 C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.genruntimeconfig.cache
+C:\Users\User\Desktop\CursoLocaliza\CursoMVC\ProjetoMVC_01\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
